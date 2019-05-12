@@ -1,0 +1,7 @@
+C:\Users\noa\Documents\project\2\ex11\ex1\ex1\bin\Debug\ex1.exe.config
+C:\Users\noa\Documents\project\2\ex11\ex1\ex1\bin\Debug\ex1.exe
+C:\Users\noa\Documents\project\2\ex11\ex1\ex1\bin\Debug\ex1.pdb
+C:\Users\noa\Documents\project\2\ex11\ex1\ex1\obj\Debug\ex1.csprojAssemblyReference.cache
+C:\Users\noa\Documents\project\2\ex11\ex1\ex1\obj\Debug\ex1.csproj.CoreCompileInputs.cache
+C:\Users\noa\Documents\project\2\ex11\ex1\ex1\obj\Debug\ex1.exe
+C:\Users\noa\Documents\project\2\ex11\ex1\ex1\obj\Debug\ex1.pdb
